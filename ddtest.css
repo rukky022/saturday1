@@ -486,6 +486,73 @@ p {
   min-height: 100%;
 }
 
+.img11, .img12, .img13, .img14  {
+  position: relative;
+  opacity: 0.8;
+  background-position: center;
+  background-size: cover;
+  background-repeat:no-repeat;
+  background-attachment: fixed;
+}
+
+
+.img11 {
+  background-image: url('madridtravel.jpg');
+  background-size: cover;
+  min-height: 100%;
+}
+
+.img12 {
+  background-image: url('madridSqr.jpg');
+  background-size: cover;
+  min-height: 100%;
+}
+
+.img13 {
+  background-image: url('madridNig.jpg');
+  background-size: cover;
+  min-height: 100%;
+}
+
+.img14 {
+  background-image: url('madridEve.jpg');
+  background-size: cover;
+  min-height: 100%;
+}
+
+.img15, .img16, .img17, .img18  {
+  position: relative;
+  opacity: 0.8;
+  background-position: center;
+  background-size: cover;
+  background-repeat:no-repeat;
+  background-attachment: fixed;
+}
+
+.img15 {
+  background-image: url('parisP.jpg');
+  background-size: cover;
+  min-height: 100%;
+}
+
+.img16 {
+  background-image: url('versailles.jpg');
+  background-size: cover;
+  min-height: 100%;
+}
+
+.img17 {
+  background-image: url('hotelP.jpg');
+  background-size: cover;
+  min-height: 100%;
+}
+
+.img18 {
+  background-image: url('paris.jpg');
+  background-size: cover;
+  min-height: 100%;
+}
+
 .section{
 
   padding: 50px 80px;
